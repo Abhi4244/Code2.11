@@ -1,0 +1,6 @@
+img{border:ridge 10px orange;padding: 9px;margin: 12px;background-color: cyan;border-radius: 10px 100px 10px 100px}
+body{background-color: beige}
+.shape{background-color: blue;color: yellow}
+#name{border: 4px ridge green;text-align: right;}
+.picture{font-size: 30px;color:orange;background-color: black}
+#hello{text-align: center;color: blue;font-weight: bold;font-size: 28px;border: 50px white groove}
